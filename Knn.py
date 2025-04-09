@@ -5,4 +5,4 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.header('sunisa') 
-st.title('TESTPYTHON')
+st.title('การจำแนกขอมูลด้วย Machine Learning')
