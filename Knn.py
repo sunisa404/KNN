@@ -57,3 +57,5 @@ html_8 = """
 <center><h5>ทำนายข้อมูล</h5></center>
 </div>
 """
+st.markdown(html_8, unsafe_allow_html=True)
+st.markdown("")
